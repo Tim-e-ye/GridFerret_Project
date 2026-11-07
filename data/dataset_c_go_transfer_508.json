@@ -1,0 +1,28 @@
+{
+  "split": "Dataset_C_Domain_Transfer",
+  "target_project": "SymbioThesis Chapter 3 (2-VisCode Go Companion System)",
+  "total_samples": 508,
+  "subsets": {
+    "Controlled_208": {
+      "path": "SymbioThesis/submodules/ferret/Datasets/board_recognition_208.json",
+      "samples": 208,
+      "SRA_pct": 99.52,
+      "RMSE_px": 0.58
+    },
+    "GoWild_Hard_300": {
+      "path": "SymbioThesis/submodules/ferret/Datasets/go_wild_hard_300.json",
+      "samples": 300,
+      "SRA_pct": 98.42,
+      "RMSE_px": 0.74,
+      "slices": {
+        "H1_Glare_Shadow_75": 98.58,
+        "H2_Perspective_Barrel_75": 98.67,
+        "H3_Finger_Sleeve_Occlusion_75": 97.8,
+        "H4_HyperDense_Ko_Semeai_75": 98.5
+      }
+    }
+  },
+  "Combined_508_SRA_pct": 98.94,
+  "Combined_508_RMSE_px": 0.68,
+  "latency_ms": 38.4
+}

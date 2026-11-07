@@ -1,0 +1,782 @@
+[
+  {
+    "sample_id": "GenVis_A_001",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 25.6,
+    "glare_ratio": 0.267,
+    "occlusion_ratio": 0.145
+  },
+  {
+    "sample_id": "GenVis_A_002",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 29.4,
+    "glare_ratio": 0.202,
+    "occlusion_ratio": 0.191
+  },
+  {
+    "sample_id": "GenVis_A_003",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 40.1,
+    "glare_ratio": 0.161,
+    "occlusion_ratio": 0.171
+  },
+  {
+    "sample_id": "GenVis_A_004",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 28.0,
+    "glare_ratio": 0.342,
+    "occlusion_ratio": 0.209
+  },
+  {
+    "sample_id": "GenVis_A_005",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 34.7,
+    "glare_ratio": 0.293,
+    "occlusion_ratio": 0.152
+  },
+  {
+    "sample_id": "GenVis_A_006",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 38.5,
+    "glare_ratio": 0.223,
+    "occlusion_ratio": 0.127
+  },
+  {
+    "sample_id": "GenVis_A_007",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 27.6,
+    "glare_ratio": 0.172,
+    "occlusion_ratio": 0.154
+  },
+  {
+    "sample_id": "GenVis_A_008",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 30.6,
+    "glare_ratio": 0.273,
+    "occlusion_ratio": 0.082
+  },
+  {
+    "sample_id": "GenVis_A_009",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 31.0,
+    "glare_ratio": 0.204,
+    "occlusion_ratio": 0.107
+  },
+  {
+    "sample_id": "GenVis_A_010",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 33.9,
+    "glare_ratio": 0.22,
+    "occlusion_ratio": 0.122
+  },
+  {
+    "sample_id": "GenVis_A_011",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 26.2,
+    "glare_ratio": 0.321,
+    "occlusion_ratio": 0.192
+  },
+  {
+    "sample_id": "GenVis_A_012",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 34.1,
+    "glare_ratio": 0.199,
+    "occlusion_ratio": 0.213
+  },
+  {
+    "sample_id": "GenVis_A_013",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 33.3,
+    "glare_ratio": 0.22,
+    "occlusion_ratio": 0.206
+  },
+  {
+    "sample_id": "GenVis_A_014",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 28.4,
+    "glare_ratio": 0.28,
+    "occlusion_ratio": 0.124
+  },
+  {
+    "sample_id": "GenVis_A_015",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 27.2,
+    "glare_ratio": 0.281,
+    "occlusion_ratio": 0.112
+  },
+  {
+    "sample_id": "GenVis_A_016",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 31.9,
+    "glare_ratio": 0.253,
+    "occlusion_ratio": 0.106
+  },
+  {
+    "sample_id": "GenVis_A_017",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 36.6,
+    "glare_ratio": 0.246,
+    "occlusion_ratio": 0.167
+  },
+  {
+    "sample_id": "GenVis_A_018",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 29.4,
+    "glare_ratio": 0.217,
+    "occlusion_ratio": 0.149
+  },
+  {
+    "sample_id": "GenVis_A_019",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 31.4,
+    "glare_ratio": 0.275,
+    "occlusion_ratio": 0.161
+  },
+  {
+    "sample_id": "GenVis_A_020",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 30.3,
+    "glare_ratio": 0.12,
+    "occlusion_ratio": 0.191
+  },
+  {
+    "sample_id": "GenVis_A_021",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 32.4,
+    "glare_ratio": 0.195,
+    "occlusion_ratio": 0.15
+  },
+  {
+    "sample_id": "GenVis_A_022",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 23.9,
+    "glare_ratio": 0.328,
+    "occlusion_ratio": 0.219
+  },
+  {
+    "sample_id": "GenVis_A_023",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 23.2,
+    "glare_ratio": 0.202,
+    "occlusion_ratio": 0.182
+  },
+  {
+    "sample_id": "GenVis_A_024",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 28.3,
+    "glare_ratio": 0.25,
+    "occlusion_ratio": 0.138
+  },
+  {
+    "sample_id": "GenVis_A_025",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 37.5,
+    "glare_ratio": 0.34,
+    "occlusion_ratio": 0.204
+  },
+  {
+    "sample_id": "GenVis_A_026",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 34.4,
+    "glare_ratio": 0.157,
+    "occlusion_ratio": 0.213
+  },
+  {
+    "sample_id": "GenVis_A_027",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 22.5,
+    "glare_ratio": 0.188,
+    "occlusion_ratio": 0.119
+  },
+  {
+    "sample_id": "GenVis_A_028",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 35.4,
+    "glare_ratio": 0.232,
+    "occlusion_ratio": 0.093
+  },
+  {
+    "sample_id": "GenVis_A_029",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 22.3,
+    "glare_ratio": 0.259,
+    "occlusion_ratio": 0.149
+  },
+  {
+    "sample_id": "GenVis_A_030",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "WTW-Hard-Lattice",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      19,
+      19
+    ],
+    "tilt_angle_deg": 34.0,
+    "glare_ratio": 0.25,
+    "occlusion_ratio": 0.205
+  },
+  {
+    "sample_id": "GenVis_A_031",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 40.4,
+    "glare_ratio": 0.163,
+    "occlusion_ratio": 0.212
+  },
+  {
+    "sample_id": "GenVis_A_032",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 37.8,
+    "glare_ratio": 0.267,
+    "occlusion_ratio": 0.172
+  },
+  {
+    "sample_id": "GenVis_A_033",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 32.9,
+    "glare_ratio": 0.331,
+    "occlusion_ratio": 0.113
+  },
+  {
+    "sample_id": "GenVis_A_034",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 34.0,
+    "glare_ratio": 0.307,
+    "occlusion_ratio": 0.099
+  },
+  {
+    "sample_id": "GenVis_A_035",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 34.3,
+    "glare_ratio": 0.213,
+    "occlusion_ratio": 0.187
+  },
+  {
+    "sample_id": "GenVis_A_036",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 23.4,
+    "glare_ratio": 0.26,
+    "occlusion_ratio": 0.2
+  },
+  {
+    "sample_id": "GenVis_A_037",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 34.6,
+    "glare_ratio": 0.194,
+    "occlusion_ratio": 0.172
+  },
+  {
+    "sample_id": "GenVis_A_038",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 28.8,
+    "glare_ratio": 0.274,
+    "occlusion_ratio": 0.098
+  },
+  {
+    "sample_id": "GenVis_A_039",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 27.6,
+    "glare_ratio": 0.128,
+    "occlusion_ratio": 0.092
+  },
+  {
+    "sample_id": "GenVis_A_040",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 33.1,
+    "glare_ratio": 0.173,
+    "occlusion_ratio": 0.152
+  },
+  {
+    "sample_id": "GenVis_A_041",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 35.2,
+    "glare_ratio": 0.323,
+    "occlusion_ratio": 0.13
+  },
+  {
+    "sample_id": "GenVis_A_042",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 28.4,
+    "glare_ratio": 0.192,
+    "occlusion_ratio": 0.096
+  },
+  {
+    "sample_id": "GenVis_A_043",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 35.3,
+    "glare_ratio": 0.309,
+    "occlusion_ratio": 0.146
+  },
+  {
+    "sample_id": "GenVis_A_044",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 33.2,
+    "glare_ratio": 0.34,
+    "occlusion_ratio": 0.178
+  },
+  {
+    "sample_id": "GenVis_A_045",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 36.9,
+    "glare_ratio": 0.325,
+    "occlusion_ratio": 0.11
+  },
+  {
+    "sample_id": "GenVis_A_046",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 35.0,
+    "glare_ratio": 0.285,
+    "occlusion_ratio": 0.198
+  },
+  {
+    "sample_id": "GenVis_A_047",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 28.9,
+    "glare_ratio": 0.278,
+    "occlusion_ratio": 0.165
+  },
+  {
+    "sample_id": "GenVis_A_048",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 30.2,
+    "glare_ratio": 0.143,
+    "occlusion_ratio": 0.129
+  },
+  {
+    "sample_id": "GenVis_A_049",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 41.3,
+    "glare_ratio": 0.17,
+    "occlusion_ratio": 0.096
+  },
+  {
+    "sample_id": "GenVis_A_050",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 29.4,
+    "glare_ratio": 0.143,
+    "occlusion_ratio": 0.117
+  },
+  {
+    "sample_id": "GenVis_A_051",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 40.3,
+    "glare_ratio": 0.193,
+    "occlusion_ratio": 0.162
+  },
+  {
+    "sample_id": "GenVis_A_052",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 26.8,
+    "glare_ratio": 0.274,
+    "occlusion_ratio": 0.098
+  },
+  {
+    "sample_id": "GenVis_A_053",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 37.8,
+    "glare_ratio": 0.217,
+    "occlusion_ratio": 0.106
+  },
+  {
+    "sample_id": "GenVis_A_054",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 37.2,
+    "glare_ratio": 0.247,
+    "occlusion_ratio": 0.141
+  },
+  {
+    "sample_id": "GenVis_A_055",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 26.8,
+    "glare_ratio": 0.3,
+    "occlusion_ratio": 0.131
+  },
+  {
+    "sample_id": "GenVis_A_056",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 22.9,
+    "glare_ratio": 0.342,
+    "occlusion_ratio": 0.084
+  },
+  {
+    "sample_id": "GenVis_A_057",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "oblique_perspective",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 24.4,
+    "glare_ratio": 0.227,
+    "occlusion_ratio": 0.109
+  },
+  {
+    "sample_id": "GenVis_A_058",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "specular_glare_shadow",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 28.7,
+    "glare_ratio": 0.251,
+    "occlusion_ratio": 0.214
+  },
+  {
+    "sample_id": "GenVis_A_059",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "partial_occlusion",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 40.7,
+    "glare_ratio": 0.137,
+    "occlusion_ratio": 0.199
+  },
+  {
+    "sample_id": "GenVis_A_060",
+    "split": "Dataset_A_Mini_Probe",
+    "benchmark_track": "RefCOCO-Dense-Grid",
+    "degradation_slice": "hyper_dense_pitch",
+    "grid_resolution": [
+      16,
+      16
+    ],
+    "tilt_angle_deg": 25.4,
+    "glare_ratio": 0.307,
+    "occlusion_ratio": 0.121
+  }
+]

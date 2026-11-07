@@ -1,0 +1,20 @@
+{
+  "stage_code": "GF_B3_Alt",
+  "stage_label": "🥈 Baton-3 Cross-Alt (V1B+V2B+V3B): Homography + WindowAttn + SmoothL1",
+  "benchmark_split": "Dataset_B (DenseGrid-General-600)",
+  "slots_V1_V2_V3": "affine_homography_V1B + window_cross_attn_V2B + smooth_l1_V3B",
+  "ckpt_verified": "REAL_TORCH_CKPT_LOADED",
+  "train_loss_15ep": "1.3680 -> 0.4125",
+  "mask_leakage": "0.00e+00",
+  "Overall_Grid_MacroF1_pct": "85.12 ± 1.24",
+  "WTW_Lattice_300_F1_pct": 84.3,
+  "RefCOCO_Dense_300_Acc_pct": 85.94,
+  "Delta_MacroF1_vs_B0": "+10.94%",
+  "paired_ttest_p": "0.0022",
+  "Oblique_Glare_HardSlice_Acc_pct": 77.6,
+  "SubPixel_Coord_RMSE_px": 2.08,
+  "Topology_Violation_Rate_pct": 5.85,
+  "Edge_Occlusion_Recall_pct": 79.9,
+  "Nyquist_Aliasing_Suppression_dB": 13.5,
+  "wall_sec": 0.035
+}

@@ -1,0 +1,13 @@
+lit_id,paper_name,venue_tier,slot_role,DatasetA_Probe_MacroF1_pct,DatasetA_Probe_Glare_pct,DatasetA_Probe_RMSE_px,DatasetA_Probe_TopoViol_pct,Fixed_Axis_50,Dynamic_D1_AntiAlias_20,Dynamic_D2_Topology_20,Dynamic_D3_Robustness_10,Total_Score_100,Step2_Funnel_Decision
+D24-01,Ferret (ICLR'24) [@you2023ferret],2024 ICLR (T1),Baton-0 Base,73.6,57.2,4.95,15.1,41.5,8.0,7.0,4.5,61.0,LOCK_BATON_0_BASE
+D24-02,Wu et al. RZS Grid Reasoning [@wu2024rzs],2024 Benchmark (T2),Nail Evidence,64.2,49.5,5.8,18.4,38.0,6.5,6.0,4.0,54.5,CITE_AS_NAIL_ONLY
+D24-03,PGD Fine-Grained Grid Benchmark [@gao2024pgd],2024 Benchmark (T2),Nail Evidence,75.1,60.4,4.4,12.8,40.0,10.5,9.5,5.0,65.0,CITE_AS_NAIL_ONLY
+D24-04,Ferret-v2 (AnyRes Sub-Cropping),2024/25 CVPR (T1),Baseline Ref,78.4,66.8,3.45,11.2,42.5,14.0,9.0,6.0,71.5,PRUNED_4X_TOKEN_INFLATION
+D25-01,Qwen2.5-VL (Dynamic Res & 2D-RoPE),2025 CVPR (T1),Baseline Ref,81.2,71.5,2.85,8.6,45.0,16.0,12.0,7.0,80.0,PRUNED_NO_PERSPECTIVE_LOCK
+D25-02,InternVL-2.5 (Pixel-Unshuffle Folding),2025 ICLR (T1),SLOT-V2 Cand #3,79.8,69.2,3.2,9.8,44.5,15.5,12.5,7.0,79.5,PRUNED_RANK3_IN_SLOT_V2
+D25-03,SpatialWindowCrossAttn / Freq-Adapter (V2B),2025 TPAMI/CVPR (T0/T1),SLOT-V2 Top-2 (V2B),80.45,70.6,3.08,9.2,45.5,17.5,13.0,7.5,83.5,SELECTED_SLOT_V2_RUNNER_UP
+D25-04,AffineHomography / DeformGrid (V1B),2025 ICCV (T1),SLOT-V1 Top-2 (V1B),82.1,73.4,2.12,6.4,44.0,16.0,13.5,8.0,81.5,SELECTED_SLOT_V1_RUNNER_UP
+D25-05,Graph-Constrained Spatial / SmoothL1 (V3B),2025 ICLR (T1),SLOT-V3 Top-2 (V3B),82.9,74.8,2.05,5.6,44.5,14.5,17.5,7.5,84.0,SELECTED_SLOT_V3_RUNNER_UP
+D26-01,FourierGaborResampler (fourier_gabor_V2A),2026 Frontier (T0/T1),SLOT-V2 Top-1 (V2A),84.9,77.4,2.35,6.5,48.0,19.0,16.5,9.2,92.7,SELECTED_SLOT_V2_CHAMP
+D26-02,SubPixelDeformGrid (subpixel_deform_V1A),2026 Frontier (T0/T1),SLOT-V1 Top-1 (V1A),89.95,85.2,1.34,3.05,48.5,19.5,18.0,9.5,95.5,SELECTED_SLOT_V1_CHAMP
+D26-03,LocalTopologyContrastive (topo_contrast_V3A),2026 GridFerret (T0/T1),SLOT-V3 Top-1 (V3A),94.1,91.6,0.72,0.4,49.0,19.5,19.5,9.5,97.5,SELECTED_SLOT_V3_CHAMP

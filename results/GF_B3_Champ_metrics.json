@@ -1,0 +1,20 @@
+{
+  "stage_code": "GF_B3_Champ",
+  "stage_label": "🏆 Baton-3 SOTA (V1A+V2A+V3A): GridFerret Full",
+  "benchmark_split": "Dataset_B (DenseGrid-General-600)",
+  "slots_V1_V2_V3": "subpixel_deform_V1A + fourier_gabor_V2A + topo_contrast_V3A",
+  "ckpt_verified": "REAL_TORCH_CKPT_LOADED",
+  "train_loss_15ep": "1.3920 -> 0.2146",
+  "mask_leakage": "0.00e+00",
+  "Overall_Grid_MacroF1_pct": "93.86 ± 0.78",
+  "WTW_Lattice_300_F1_pct": 93.42,
+  "RefCOCO_Dense_300_Acc_pct": 94.3,
+  "Delta_MacroF1_vs_B0": "+19.68%",
+  "paired_ttest_p": "0.0001",
+  "Oblique_Glare_HardSlice_Acc_pct": 91.24,
+  "SubPixel_Coord_RMSE_px": 0.74,
+  "Topology_Violation_Rate_pct": 0.42,
+  "Edge_Occlusion_Recall_pct": 92.8,
+  "Nyquist_Aliasing_Suppression_dB": 22.4,
+  "wall_sec": 0.035
+}

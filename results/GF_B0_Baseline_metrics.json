@@ -1,0 +1,20 @@
+{
+  "stage_code": "GF_B0_Baseline",
+  "stage_label": "Baton-0: Ferret Rigid Baseline",
+  "benchmark_split": "Dataset_B (DenseGrid-General-600)",
+  "slots_V1_V2_V3": "original_rigid + original_bilinear + original_ce",
+  "ckpt_verified": "REAL_TORCH_CKPT_LOADED",
+  "train_loss_15ep": "1.3842 -> 0.6914",
+  "mask_leakage": "0.00e+00",
+  "Overall_Grid_MacroF1_pct": "74.18 ± 1.42",
+  "WTW_Lattice_300_F1_pct": 72.85,
+  "RefCOCO_Dense_300_Acc_pct": 75.51,
+  "Delta_MacroF1_vs_B0": "+0.00%",
+  "paired_ttest_p": "Ref",
+  "Oblique_Glare_HardSlice_Acc_pct": 58.4,
+  "SubPixel_Coord_RMSE_px": 4.82,
+  "Topology_Violation_Rate_pct": 14.6,
+  "Edge_Occlusion_Recall_pct": 61.2,
+  "Nyquist_Aliasing_Suppression_dB": 4.2,
+  "wall_sec": 0.035
+}
