@@ -1,0 +1,26 @@
+{
+  "domain": "GridFerret_Project",
+  "verified": true,
+  "symbols": [
+    {
+      "id": "SYM-GF-S1-01",
+      "symbol": "PeriodicGrid19x19Dataset"
+    },
+    {
+      "id": "SYM-GF-S2-01",
+      "symbol": "GridFerretWindTunnelModel"
+    },
+    {
+      "id": "SYM-GF-SLOT-V1",
+      "symbol": "HammerSlotV1"
+    },
+    {
+      "id": "SYM-GF-SLOT-V2",
+      "symbol": "HammerSlotV2"
+    },
+    {
+      "id": "SYM-GF-SLOT-V3",
+      "symbol": "compute_slot_v3_loss"
+    }
+  ]
+}

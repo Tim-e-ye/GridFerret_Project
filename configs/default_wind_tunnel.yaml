@@ -1,0 +1,37 @@
+# GridFerret Unified Wind-Tunnel & Pluggable Hammer Configuration
+project: GridFerret_Project
+target_venue: "IEEE Transactions on Image Processing (TIP) / CVPR"
+base_anchor: "Ferret (ICLR 2024) / Qwen2.5-VL 19x19 High-Density Grid"
+
+grid_spec:
+  grid_size: [19, 19]
+  num_intersections: 361
+  feature_dim: 128
+  oblique_angle_deg: [30, 45]
+
+impedance_gates:
+  gate1_mask_leakage_tol: 1.0e-6
+  gate2_grad_norm_clip: 1.0
+  gate3_preserve_manifold_norm: true
+  gate4_micro_gate_init:
+    slot_v1: -2.2
+    slot_v2: -2.0
+
+pluggable_slots:
+  slot_v1_geometry:
+    default: "subpixel_deform_V1A"
+    candidates: ["original_rigid", "subpixel_deform_V1A", "affine_homography_V1B"]
+  slot_v2_frequency:
+    default: "fourier_gabor_V2A"
+    candidates: ["original_bilinear", "fourier_gabor_V2A", "window_cross_attn_V2B"]
+  slot_v3_topology:
+    default: "topo_contrast_V3A"
+    candidates: ["original_ce", "topo_contrast_V3A", "smooth_l1_V3B"]
+
+wind_tunnel_metrics:
+  - Overall_Grid_MacroF1_pct
+  - Oblique_Glare_HardSlice_Acc_pct
+  - SubPixel_Coord_RMSE_px
+  - Topology_Violation_Rate_pct
+  - Edge_Occlusion_Recall_pct
+  - Nyquist_Aliasing_Suppression_dB
